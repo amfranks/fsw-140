@@ -1,1 +1,2 @@
-# fsw-140
+# FSW-140—Relational Databases and the Web - MySQL & PostgreSQL
+Students will create relational databases (e.g. using MySQL or PostgreSQL) in the connection with Express servers. Students will learn and use both direct SQL statements and Object Relational Mapping approaches. Students will practice skills that demonstrate professional attitude and behavior (e.g. teamwork, leadership, and communication).
